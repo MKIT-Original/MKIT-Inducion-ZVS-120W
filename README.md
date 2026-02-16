@@ -24,7 +24,7 @@
     <p align="center">
       <strong style="font-size:20px;">🔴 Watch the Video</strong>
     </p>
-    <hr width="70%">
+    <hr width="100%">
   </div>
 </div>
 
