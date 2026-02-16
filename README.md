@@ -22,7 +22,7 @@
       </a>
     </p>
     <p align="center">
-      <strong style="font-size:20px;">🔴 Watch the Video</strong>
+      <strong style="font-size:20px;">🔴 Watch the Video 🔴</strong>
     </p>
     <hr width="100%">
   </div>
