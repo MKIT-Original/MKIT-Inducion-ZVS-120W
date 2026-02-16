@@ -54,7 +54,7 @@ Key Features:
     <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="50" style="background:white;border-radius:50%;padding:8px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/MKIT-Original">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="50" style="background:#181717;border-radius:50%;padding:8px;" />
   </a>
 </p>
