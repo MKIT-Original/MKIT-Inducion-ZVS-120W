@@ -23,6 +23,11 @@ Key Features:
 <!-- ================== PROJECT DETAILS ================== -->
 ## ⚙️ Project Details
 
+- **Output Wattage:** 120 Watts  
+- **Circuit Input Voltage : 12V to 24V  
+  - IRF540N : 12V DC TO 24 V DC
+  - IRF3205 : 7 VDC to 15 VDC  
+  - IRFZ44  : 12 VDC to 15 VDC
 
 <!-- ================== SOCIAL LINKS ================== -->
 <p align="center">
