@@ -1,6 +1,7 @@
-<!-- ================== HEADER ================== -->
+<!-- ================== PROJECT BANNER ================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MKIT-Induction-ZVS-120W-ff4500?style=for-the-badge&logo=electronics&logoColor=white" alt="Project Banner"/>
+  <!-- Replace 'channel_logo.png' with your actual logo file inside 'assets' -->
+  <img src="assets/channel_logo.png" alt="Channel Logo" width="400" style="background:white; padding:10px; border-radius:15px;"/>
 </p>
 
 <h1 align="center">MKIT-Induction-ZVS-120W</h1>
@@ -14,7 +15,7 @@
 
 <!-- ================== PROJECT IMAGE ================== -->
 <p align="center">
-  <img src="project_image.png" alt="Project Image" width="600"/>
+  <img src="project_image.png" alt="Project Image" width="450"/>
 </p>
 
 <!-- ================== PROJECT GIF ================== -->
