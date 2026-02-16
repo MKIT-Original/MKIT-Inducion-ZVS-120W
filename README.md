@@ -7,7 +7,6 @@
 <p align="center">📌 Induction converter project with ZVS circuit and 120W power</p>
 
 <!-- ================== HERO IMAGE / GIF ================== -->
-<!-- This is the first image or GIF shown after the title and description -->
 <!-- Replace 'hero_image.gif' with your actual file -->
 <p align="center">
   <img src="assets/hero_image.gif" alt="Hero Image" width="700"/>
@@ -15,7 +14,7 @@
 
 <!-- ================== PROJECT IMAGE ================== -->
 <p align="center">
-  <img src="assets/project_image.png" alt="Project Image" width="600"/>
+  <img src="project_image.png" alt="Project Image" width="600"/>
 </p>
 
 <!-- ================== PROJECT GIF ================== -->
@@ -34,6 +33,7 @@ Key Features:
 
 <!-- ================== PROJECT DETAILS ================== -->
 ## ⚙️ Project Details
+
 
 
 
