@@ -1,7 +1,7 @@
 <!-- ================== PROJECT BANNER ================== -->
 <p align="center">
   <!-- Replace 'channel_logo.png' with your actual logo file inside 'assets' -->
-  <img src="assets/channel_logo.png" alt="Channel Logo" width="400" style="background:white; padding:10px; border-radius:15px;"/>
+  <img src="assets/channel_logo.png" alt="Channel Logo" width="200" style="background:white; padding:10px; border-radius:15px;"/>
 </p>
 
 <h1 align="center">MKIT-Induction-ZVS-120W</h1>
@@ -15,12 +15,12 @@
 
 <!-- ================== PROJECT IMAGE ================== -->
 <p align="center">
-  <img src="project_image.png" alt="Project Image" width="450"/>
+  <img src="project_image.png" alt="Project Image" width="300"/>
 </p>
 
 <!-- ================== PROJECT GIF ================== -->
 <p align="center">
-  <img src="assets/project_animation.gif" alt="Project GIF" width="600"/>
+  <img src="assets/project_animation.gif" alt="Project GIF" width="300"/>
 </p>
 
 <!-- ================== PROJECT DESCRIPTION ================== -->
