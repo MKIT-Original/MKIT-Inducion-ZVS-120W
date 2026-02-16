@@ -6,14 +6,19 @@
 <h1 align="center">MKIT-Induction-ZVS-120W</h1>
 <p align="center">📌 Induction converter project with ZVS circuit and 120W power</p>
 
+<!-- ================== HERO IMAGE / GIF ================== -->
+<!-- This is the first image or GIF shown after the title and description -->
+<!-- Replace 'hero_image.gif' with your actual file -->
+<p align="center">
+  <img src="assets/hero_image.gif" alt="Hero Image" width="700"/>
+</p>
+
 <!-- ================== PROJECT IMAGE ================== -->
-<!-- Replace 'project_image.png' with your actual image file -->
 <p align="center">
   <img src="assets/project_image.png" alt="Project Image" width="600"/>
 </p>
 
 <!-- ================== PROJECT GIF ================== -->
-<!-- Replace 'project_animation.gif' with your actual GIF file -->
 <p align="center">
   <img src="assets/project_animation.gif" alt="Project GIF" width="600"/>
 </p>
@@ -29,6 +34,9 @@ Key Features:
 
 <!-- ================== PROJECT DETAILS ================== -->
 ## ⚙️ Project Details
+
+
+
 
 <!-- ================== SOCIAL LINKS ================== -->
 ## 🔗 Social Links
