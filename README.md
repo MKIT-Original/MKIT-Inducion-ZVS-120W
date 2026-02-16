@@ -1,26 +1,14 @@
 <!-- ================== PROJECT BANNER ================== -->
 <p align="center">
-  <!-- Replace 'channel_logo.png' with your actual logo file inside 'assets' -->
   <img src="assets/channel_logo.png" alt="Channel Logo" width="200" style="background:white; padding:10px; border-radius:15px;"/>
 </p>
 
 <h1 align="center">MKIT-Induction-ZVS-120W</h1>
 <p align="center">📌 Induction converter project with ZVS circuit and 120W power</p>
 
-<!-- ================== HERO IMAGE / GIF ================== -->
-<!-- Replace 'hero_image.gif' with your actual file -->
-<p align="center">
-  <img src="assets/hero_image.gif" alt="Hero Image" width="700"/>
-</p>
-
 <!-- ================== PROJECT IMAGE ================== -->
 <p align="center">
   <img src="project_image.png" alt="Project Image" width="300"/>
-</p>
-
-<!-- ================== PROJECT GIF ================== -->
-<p align="center">
-  <img src="assets/project_animation.gif" alt="Project GIF" width="300"/>
 </p>
 
 <!-- ================== PROJECT DESCRIPTION ================== -->
@@ -36,11 +24,7 @@ Key Features:
 ## ⚙️ Project Details
 
 
-
-
-
 <!-- ================== SOCIAL LINKS ================== -->
-## 🔗 Social Links
 <p align="center">
   <a href="https://www.youtube.com/c/Mkitt">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" style="background:white;border-radius:50%;padding:8px;" />
@@ -56,5 +40,9 @@ Key Features:
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/MKIT-Original">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="50" style="background:#181717;border-radius:50%;padding:8px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pin.it/6VjUmu5kY">
+    <img src="https://cdn.simpleicons.org/pinterest/E60023" width="50" style="background:white;border-radius:50%;padding:8px;" />
   </a>
 </p>
